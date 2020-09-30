@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="Task: close to final commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="Task: gitignore created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,14 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601333575103</updated>
       <workItem from="1601333576161" duration="21360000" />
-      <workItem from="1601431573728" duration="1958000" />
-    </task>
-    <task id="LOCAL-00008" summary="task: Github pages">
-      <created>1601338756271</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1601338756271</updated>
+      <workItem from="1601431573728" duration="2381000" />
     </task>
     <task id="LOCAL-00009" summary="task: Github pages">
       <created>1601339440039</created>
@@ -419,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601433920308</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Task: gitignore created">
+      <created>1601434627006</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1601434627007</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,7 +436,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="task: colored headings trial 3" />
     <MESSAGE value="task: colored background trial 1" />
     <MESSAGE value="task: colored background trial 2" />
     <MESSAGE value="task: background and text align" />
@@ -463,7 +460,8 @@
     <MESSAGE value="Task: About page" />
     <MESSAGE value="Task: Background and close to final commit" />
     <MESSAGE value="Task: close to final commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: close to final commit" />
+    <MESSAGE value="Task: gitignore created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: gitignore created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="127" key="#Deployment" timestamp="1601335468410">
@@ -478,10 +476,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601425134804" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1601433922692">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1601434643819">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601433922692" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601434643819" />
     <state x="558" y="367" key="WebDeployment.AddServerDialog.v.1" timestamp="1601335319083">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
