@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="Task: close to final commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i9xOEaywN7p6bSu1u0VT7glzcm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="" />
+      <created>1601333575103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601333575103</updated>
+      <workItem from="1601333576161" duration="21360000" />
+      <workItem from="1601431573728" duration="1958000" />
+    </task>
+    <task id="LOCAL-00008" summary="task: Github pages">
+      <created>1601338756271</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601338756271</updated>
+    </task>
+    <task id="LOCAL-00009" summary="task: Github pages">
+      <created>1601339440039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601339440039</updated>
+    </task>
+    <task id="LOCAL-00010" summary="task: Github pages">
+      <created>1601339489126</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601339489126</updated>
+    </task>
+    <task id="LOCAL-00011" summary="task: added CSS">
+      <created>1601393103077</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601393103077</updated>
+    </task>
+    <task id="LOCAL-00012" summary="task: added body">
+      <created>1601398862140</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601398862140</updated>
+    </task>
+    <task id="LOCAL-00013" summary="task: added body">
+      <created>1601398900404</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601398900404</updated>
+    </task>
+    <task id="LOCAL-00014" summary="task: colored headings and css">
+      <created>1601400431038</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400431038</updated>
+    </task>
+    <task id="LOCAL-00015" summary="task: colored headings and css">
+      <created>1601400497031</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400497031</updated>
+    </task>
+    <task id="LOCAL-00016" summary="task: colored headings and css">
+      <created>1601400579433</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400579433</updated>
+    </task>
+    <task id="LOCAL-00017" summary="task: colored headings trial 3">
+      <created>1601400610179</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400610179</updated>
+    </task>
+    <task id="LOCAL-00018" summary="task: colored background trial 1">
+      <created>1601400735624</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400735624</updated>
+    </task>
+    <task id="LOCAL-00019" summary="task: colored background trial 2">
+      <created>1601400809902</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400809902</updated>
+    </task>
+    <task id="LOCAL-00020" summary="task: colored background trial 2">
+      <created>1601400860998</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601400860998</updated>
+    </task>
+    <task id="LOCAL-00021" summary="task: background and text align">
+      <created>1601401107532</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601401107532</updated>
+    </task>
+    <task id="LOCAL-00022" summary="task: background and text align">
+      <created>1601401338463</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601401338463</updated>
+    </task>
+    <task id="LOCAL-00023" summary="task: background and text align">
+      <created>1601401712586</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601401712586</updated>
+    </task>
+    <task id="LOCAL-00024" summary="task: background and text align trail 2">
+      <created>1601402094101</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402094101</updated>
+    </task>
+    <task id="LOCAL-00025" summary="task: background and text align trail 2">
+      <created>1601402158867</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402158867</updated>
+    </task>
+    <task id="LOCAL-00026" summary="task: background and text align trail 2">
+      <created>1601402229297</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402229297</updated>
+    </task>
+    <task id="LOCAL-00027" summary="task: background and text align trail 3">
+      <created>1601402325079</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402325079</updated>
+    </task>
+    <task id="LOCAL-00028" summary="task: background and text align trail 3">
+      <created>1601402409607</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402409607</updated>
+    </task>
+    <task id="LOCAL-00029" summary="task: background and text align trail 3">
+      <created>1601402462281</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601402462281</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task: added links">
+      <created>1601403058329</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1601403058329</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Task: Fix the links and pages">
+      <created>1601403196564</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1601403196564</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task: Fix the links and pages">
+      <created>1601407036025</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1601407036025</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Task: Fix the links and pages for the dropdown links">
+      <created>1601407404833</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1601407404833</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Task: Fix the links and pages for the dropdown links rial 2">
+      <created>1601407524765</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601407524765</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Task: Team paragraph">
+      <created>1601408021220</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1601408021220</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Task: Team paragraph trial 2">
+      <created>1601408089289</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1601408089289</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Task: Team paragraph trial 3">
+      <created>1601408304608</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601408304608</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Task: Team paragraph trial 4">
+      <created>1601408857135</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1601408857135</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Task: About paragraph trial 1">
+      <created>1601410887413</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1601410887413</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Task: About paragraph trial 1">
+      <created>1601410999979</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1601410999979</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Task: Team paragraph trial 2">
+      <created>1601411235419</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1601411235419</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Task: Team paragraph trial 3">
+      <created>1601411606818</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1601411606819</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Task: Team paragraph trial 4">
+      <created>1601412189302</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412189302</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Task: Team paragraph trial 5">
+      <created>1601412368962</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412368962</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Task: Team paragraph trial 5">
+      <created>1601412625035</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412625035</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Task: Team paragraph trial 6">
+      <created>1601412869724</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1601412869724</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Task: Team paragraph trial 7">
+      <created>1601413140102</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1601413140102</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Task: Team paragraph trial 8">
+      <created>1601413381452</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1601413381452</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Task: Team photos trial 1">
+      <created>1601414795952</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1601414795952</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Task: Team photos trial 1">
+      <created>1601414806206</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1601414806212</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Task: Team photos and topics trial 1">
+      <created>1601422159553</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1601422159554</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Task: Team photos and topics trial 2">
+      <created>1601422583560</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1601422583560</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Task: About page">
+      <created>1601430173356</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1601430173357</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Task: Background and close to final commit">
+      <created>1601433191553</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1601433191554</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Task: Background and close to final commit">
+      <created>1601433737981</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1601433737981</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Task: close to final commit">
+      <created>1601433920307</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1601433920308</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task: colored headings trial 3" />
+    <MESSAGE value="task: colored background trial 1" />
+    <MESSAGE value="task: colored background trial 2" />
+    <MESSAGE value="task: background and text align" />
+    <MESSAGE value="task: background and text align trail 2" />
+    <MESSAGE value="task: background and text align trail 3" />
+    <MESSAGE value="Task: added links" />
+    <MESSAGE value="Task: Fix the links and pages" />
+    <MESSAGE value="Task: Fix the links and pages for the dropdown links" />
+    <MESSAGE value="Task: Fix the links and pages for the dropdown links rial 2" />
+    <MESSAGE value="Task: Team paragraph" />
+    <MESSAGE value="Task: About paragraph trial 1" />
+    <MESSAGE value="Task: Team paragraph trial 2" />
+    <MESSAGE value="Task: Team paragraph trial 3" />
+    <MESSAGE value="Task: Team paragraph trial 4" />
+    <MESSAGE value="Task: Team paragraph trial 5" />
+    <MESSAGE value="Task: Team paragraph trial 6" />
+    <MESSAGE value="Task: Team paragraph trial 7" />
+    <MESSAGE value="Task: Team paragraph trial 8" />
+    <MESSAGE value="Task: Team photos trial 1" />
+    <MESSAGE value="Task: Team photos and topics trial 1" />
+    <MESSAGE value="Task: Team photos and topics trial 2" />
+    <MESSAGE value="Task: About page" />
+    <MESSAGE value="Task: Background and close to final commit" />
+    <MESSAGE value="Task: close to final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: close to final commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Deployment" timestamp="1601335468410">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Deployment/0.23.1440.877@0.23.1440.877" timestamp="1601335468410" />
+    <state x="304" y="114" key="#SSH_Configurations" timestamp="1601335467457">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="304" y="114" key="#SSH_Configurations/0.23.1440.877@0.23.1440.877" timestamp="1601335467457" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601425134804">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601425134804" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1601433922692">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601433922692" />
+    <state x="558" y="367" key="WebDeployment.AddServerDialog.v.1" timestamp="1601335319083">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="558" y="367" key="WebDeployment.AddServerDialog.v.1/0.23.1440.877@0.23.1440.877" timestamp="1601335319083" />
+    <state x="0" y="23" width="745" height="877" key="find.popup" timestamp="1601403151812">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" width="745" height="877" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1601403151812" />
+    <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601336286633">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="542" y="362" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601336286633" />
+  </component>
+</project>
