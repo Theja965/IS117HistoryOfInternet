@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="Task: gitignore created" />
+    <list default="true" id="5bc3c0c6-ec71-4fd1-b070-071baeb44141" name="Default Changelist" comment="Task: gitignore created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/team.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,6 +77,7 @@
       <updated>1601333575103</updated>
       <workItem from="1601333576161" duration="21360000" />
       <workItem from="1601431573728" duration="2381000" />
+      <workItem from="1601435588992" duration="971000" />
     </task>
     <task id="LOCAL-00009" summary="task: Github pages">
       <created>1601339440039</created>
